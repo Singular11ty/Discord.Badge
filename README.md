@@ -69,6 +69,6 @@ Once the bot is running and invited to your server, you can use the `/developerb
 | Socials | Username or Link |
 |---------|------------------|
 |<img src="https://img.shields.io/badge/DISCORD-707adb?style=plastic&logo=discord&logoColor=f9f9f9" >|<font color="blue">@mrsingu</font>|
-|<img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=plastic&logo=github&logoColor=f9f9f9" >|<font color="blue">@Singular11ty</font|
+|<img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=plastic&logo=github&logoColor=f9f9f9" >|<font color="blue">@Singular11ty</font>|
 
   
